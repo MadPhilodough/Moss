@@ -1,0 +1,26 @@
+{
+  "name": "Moss",
+  "short_name": "Moss",
+  "description": "Calm task manager — build momentum with daily, weekly, monthly, yearly and one-off lists",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#12121c",
+  "theme_color": "#12121c",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
